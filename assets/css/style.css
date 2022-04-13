@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.navbar {
+    background-color: transparent !important;
+    /* z-index: 900; */
+    position:fixed;
+  }
+
+
+/* $grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+); */
+
+/* fonts weight
+400 -> regular
+700 -> bold */
