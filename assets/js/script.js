@@ -9,7 +9,7 @@ $(document).ready(function () {
 
     function myFunction() {
       if (document.documentElement.scrollTop > 100) {
-        document.getElementById("navTest").className = "navbar navbar-expand-lg navbar-dark mb-lg-3 bg-dark fixed-top";
+        document.getElementById("navTest").className = "navbar navbar-expand-lg navbar-dark mb-lg-3 bg-dark bg-opacity-50 fixed-top";
       } else {
         document.getElementById("navTest").className = "navbar navbar-expand-lg navbar-dark bg-transparent mb-lg-3 fixed-top";
       }
