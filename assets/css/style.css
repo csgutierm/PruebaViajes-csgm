@@ -1,32 +1,63 @@
+/* Para evitar configuración inicial de algunos browser */
 * {
     margin: 0;
     padding: 0;
     border: 0;
+    font-family: 'Lexend Deca', sans-serif;
 }
 
-body{
+body {
     background-color: black;
     color: white
 }
 
-/* $grid-breakpoints: (
+/* Recordatorio de tamaños bootstrap
   xs: 0,
   sm: 576px,
   md: 768px,
   lg: 992px,
   xl: 1200px,
   xxl: 1400px
-); */
+*/
 
-/* fonts weight
-400 -> regular
-700 -> bold */
-
-.subTitulos{
+.subTitulos {
     text-align: center;
     font-size: 1.5rem;
 }
 
-.myBGcolor{
+.myBGcolor {
     background-color: #0DCAD6;
+}
+
+/* sombra para mejorar el contraste de algunos textos */
+.myShadow {
+    text-shadow: 2px 2px black;
+}
+
+
+
+ ---------------------------------------------
+ ---------------------------------------------
+
+ /* Fuentes y tamaños */
+ /* fonts weight
+400 -> regular
+700 -> bold */
+
+h1, h5{
+    font-weight: 700;  
+}
+p{
+    font-weight: 400;
+}
+
+/* Para tamaños desde 768px md-lg-xl... */
+
+@media (min-width: 992px) {
+    h5, a{
+        font-size: 1.25rem
+    }
+    p{
+        font-size:large
+    }
 }
