@@ -1,14 +1,15 @@
 # PruebaViajes-csgm
 
 ## Tabla de contenidos
-* [Introducción](#Introducción)
-* [Teconologás usadas](#technologies-used)
-* [Recursos](#Recursos)
+* [Introducción](#introducción)
+* [Tecnologías](#tecnologías)
+* [Recursos](#recursos)
 * [Screenshots](#screenshots)
-* [Recursos](#Recursos)
-* [Status](#Status)
-* [Ideas futuras](#room-for-improvement)
-* [Contacto](#contact)
+* [Requisitos](#requisitos)
+* [Status](#status)
+* [Ideas futuras](#ideas-futuras)
+* [Agradecimientos](#agradecimientos)
+* [Contacto](#contacto)
 
 ##  Introducción
  
@@ -16,7 +17,7 @@ Proyecto de creación de Página de entrenamiento utilizando múltiples recursos
 amigable con dispositivos de pantallas pequeñas como smartphones debido al diseño responsivo. 
 
 
-##  Teconologás usadas
+##  Tecnologías
 
 * Boostrap 5.1.3
 * Popper 2.10.2 
@@ -29,6 +30,10 @@ amigable con dispositivos de pantallas pequeñas como smartphones debido al dise
 
 * Fontawesome (iconos)
 * Google fonts
+
+##  Screenshots
+
+![Example screenshot](./assets/img/Screenshoot.png)
 
 
 ##  Requisitos
