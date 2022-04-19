@@ -33,7 +33,9 @@ amigable con dispositivos de pantallas pequeñas como smartphones debido al dise
 
 ##  Screenshots
 
-![Example screenshot](./assets/img/Screenshoot.png)
+![screenshot2](https://raw.githubusercontent.com/csgutierm/PruebaViajes-csgm/main/assets/img/Screenshoot2.png)
+![screenshot](https://raw.githubusercontent.com/csgutierm/PruebaViajes-csgm/main/assets/img/Screenshoot.PNG)
+
 
 
 ##  Requisitos
