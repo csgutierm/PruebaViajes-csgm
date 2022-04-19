@@ -6,7 +6,7 @@ $(document).ready(function () {
   // load high res 300-400ms cpu ryzen 5600g
   // load low res 140-180ms cpu ryzen 5600g
   let screenW = window.screen.width;
-  if (screenW>3768) {
+  if (screenW>768) {
     document.getElementById("imageBigC1").src="./assets/img/carousel1.jpg";
     document.getElementById("imageBigC2").src="./assets/img/carousel2.jpg";
     document.getElementById("imageBigC3").src="./assets/img/carousel3.jpg";
